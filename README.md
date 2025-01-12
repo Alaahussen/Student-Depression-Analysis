@@ -20,7 +20,7 @@ Gender: The student's gender (categorical).
 
 Handling Missing Values: We started by checking for missing values in the dataset. Missing values were either filled with appropriate techniques (mean/median for numerical values, mode for categorical variables) or dropped if there were too few instances.
 
-Outlier Detection: Outliers were detected using Boxplots and Z-scores. The following steps were taken:
+Outlier Detection: Outliers were detected using Boxplots. The following steps were taken:
 
 Boxplots: Identified extreme values in columns like Age ,CGPA and Sleep Hours.
 
