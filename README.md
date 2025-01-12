@@ -5,6 +5,9 @@ This project aims to analyze a dataset of student data to identify patterns that
 This repository contains the code and documentation for Student Depression Analysis. We are using a dataset that includes features like CGPA, Study Hours, Sleep Duration, Family Income, and other factors that are hypothesized to affect student mental health.
 
 # Dataset Overview
+The dataset for this project can be accessed from the following link:  
+[Kaggle Dataset - Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/data)
+
 The dataset consists of various attributes related to student life, including:
 
 CGPA: Cumulative Grade Point Average of the student (numeric).
