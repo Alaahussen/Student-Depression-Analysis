@@ -11,11 +11,17 @@ The dataset for this project can be accessed from the following link:
 The dataset consists of various attributes related to student life, including:
 
 CGPA: Cumulative Grade Point Average of the student (numeric).
+
 Sleep Hours: Number of hours a student sleeps per day (numeric).
+
 Study Hours: Number of hours a student spends studying per day (numeric).
+
 Age: Age of the student (numeric).
+
 Depression: Whether the student suffers from depression (categorical, yes/no).
+
 City: The student's city of residence (categorical).
+
 Gender: The student's gender (categorical).
 
 # 📋 Steps of Analysis
