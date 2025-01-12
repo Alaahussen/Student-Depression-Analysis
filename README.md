@@ -1,4 +1,6 @@
 # Student Depression Analysis
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.al-fanarmedia.org%2F2022%2F10%2Finternational-organisations-give-undergraduates-tips-on-how-to-gauge-their-mental-health%2F&psig=AOvVaw18uGwS1RoKWYZzeOzMUIxh&ust=1736808391056000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiSwoii8YoDFQAAAAAdAAAAABAP alt="Depression Dataset Overview" width="600"/>
+
 This project aims to analyze a dataset of student data to identify patterns that could help in predicting depression. The dataset includes various features related to students' personal and academic information. Our goal is to process and analyze the data to better understand the factors contributing to depression and apply machine learning models for prediction.
 
 # 🚀 Project Overview
