@@ -1,5 +1,7 @@
 # Student Depression Analysis
-<img src="images.jpg" alt="Depression Dataset Overview" width="600"/>
+<div align="center">
+  <img src="images.jpg" alt="Depression Dataset Overview" width="80%" height="auto"/>
+</div>
 This project aims to analyze a dataset of student data to identify patterns that could help in predicting depression. The dataset includes various features related to students' personal and academic information. Our goal is to process and analyze the data to better understand the factors contributing to depression and apply machine learning models for prediction.
 
 # 🚀 Project Overview
