@@ -38,6 +38,7 @@ Satisfied: 4.0)
 
 To identify the most important features, we used several techniques:
 **Correlation Analysis:** Analyzed correlations between features and the target variable (Depression).
+
 **Random Forest:** Used feature importance to rank the features and select the top ones for model training.
 
 ## 4. Modeling
